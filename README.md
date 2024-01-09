@@ -22,7 +22,7 @@ Maximum accuracy is somewhere at 79.5 (val_loss: 0.4432 - val_accuracy: 0.7950) 
 
 Used:
 
-Colab - IDE online
-Python - as a programming language
-TensorFlow - as a library for model training 
+Colab - IDE online;
+Python - as a programming language;
+TensorFlow - as a library for model training;
 Kaggle - for retrieving the data set with images
